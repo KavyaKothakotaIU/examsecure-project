@@ -2,7 +2,7 @@
 **IU Master's Project - Online exam monitoring system**
 ExamSecure utilizes a lightweight, event-driven architecture based on the MERN stack (MongoDB, Express, React, Node.js) to monitor academic integrity non-invasively. The system is designed around the principle of Privacy-by-Design, ensuring only minimal, pseudonymized activity metadata is collected.
 
-1.**Presentation Tier (Client - React.js)**
+   1.**Presentation Tier (Client - React.js)**
 This is the interface the student interacts with and runs entirely within the web browser. Its primary function is robust, non-invasive detection.
 
 -**Technology:** React.js
