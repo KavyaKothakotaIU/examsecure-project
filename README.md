@@ -37,7 +37,7 @@ The dedicated storage for all project data, adhering strictly to the data minimi
 
 -**Data Stored (Pseudonymized)**: Only non-PII (Personally Identifiable Information) metadata is saved, including sessionId, eventType, timestamp, and the calculated integrityScore. No keystroke content, video, or biometric data is ever collected.
 
-
+**System Architecture Diagram**
 
 
 <img width="661" height="131" alt="saupdated123" src="https://github.com/user-attachments/assets/0f2bcb01-2dc8-4283-a3f2-ada25e83870e" />
